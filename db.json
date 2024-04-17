@@ -1,37 +1,36 @@
 {
-    "activities": [
-      {
-        "id": 1,
-        "name": "Morning Jog",
-        "description": "A morning jog in the park.",
-        "startTime": "07:00",
-        "duration": 30,
-        "date": "2024-04-16"
-      },
-      {
-        "id": 2,
-        "name": "Email Check",
-        "description": "Check and reply to urgent emails.",
-        "startTime": "08:00",
-        "duration": 15,
-        "date": "2024-04-16"
-      },
-      {
-        "id": 3,
-        "name": "Project Meeting",
-        "description": "Weekly project status meeting with the team.",
-        "startTime": "09:00",
-        "duration": 60,
-        "date": "2024-04-16"
-      }
-    ],
-    "users": [
-      {
-        "id": 1,
-        "username": "Caesar",
-        "password": "hashed_password",
-        "email": "john@example.com"
-      }
-    ]
-  }
-  
+  "activities": [
+    {
+      "id": 1,
+      "name": "Morning Jog",
+      "description": "A morning jog in the park.",
+      "startTime": "07:00",
+      "duration": 30,
+      "date": "2024-04-16"
+    },
+    {
+      "id": 2,
+      "name": "Email Check",
+      "description": "Check and reply to urgent emails.",
+      "startTime": "08:00",
+      "duration": 15,
+      "date": "2024-04-16"
+    },
+    {
+      "id": 3,
+      "name": "Project Meeting",
+      "description": "Weekly project status meeting with the team.",
+      "startTime": "09:00",
+      "duration": 60,
+      "date": "2024-04-16"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Caesar",
+      "password": "hashed_password",
+      "email": "john@example.com"
+    }
+  ]
+}
